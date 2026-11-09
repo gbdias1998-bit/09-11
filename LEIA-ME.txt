@@ -1,0 +1,9 @@
+Atividade prática - Consumo de API com JavaScript (fetch)
+
+1. Abra o arquivo index.html no navegador (precisa de internet).
+2. Pressione F12 e acesse a aba Console.
+3. Serão exibidos ID, TITLE e BODY das 100 publicações, separadas por linhas.
+
+Arquivos:
+  index.html  -> página que carrega o script
+  script.js   -> fetch(), conversão para JSON, laço for...of e catch()
